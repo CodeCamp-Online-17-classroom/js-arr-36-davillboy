@@ -14,3 +14,5 @@ const array = [
 //     "<tr><td>watermelon</td><td>30 dec 1985</td></tr>",
 // ]
 ```
+
+ชัยรัตน์ ทรัพย์สนอง (ตูน)
